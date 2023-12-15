@@ -1,5 +1,7 @@
-{"mensaje": "Este es un texto de prueba."}
-{
-  "mensaje": "Se actualizo la revista Margenes",
-  "enlace": "https://www.margenes.com/"
-}
+[
+  {"mensaje": "Este es un texto de prueba."},
+  {
+    "mensaje": "Se actualizó la revista Márgenes",
+    "enlace": "https://www.margenes.com/"
+  }
+]
