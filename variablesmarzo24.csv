@@ -590,7 +590,7 @@ gespsoja12,180.0
 gespsoja111,82.8
 gespsoja211,49.7
 gespgirasol11,82.8
-notuse11,82.8
+gespcebada11 ,82.8
 gespsorgo11,82.8
 gespmaiz11,82.8
 gesptrigo11,33.1
@@ -702,12 +702,12 @@ arrendgirasol16,196.0
 arrendcebada16,78.4
 arrendsorgo16,196.0
 arrendtrigo2,212.8
-arrendmaiz2,532
-arrendsoja12,532
+arrendmaiz2,532.0
+arrendsoja12,532.0
 arrendsoja22,319.2
-arrendgirasol2,532
+arrendgirasol2,532.0
 arrendcebada2,212.8
-arrendsorgo2,532
+arrendsorgo2,5320.
 arrendtrigo11,112.0
 arrendmaiz11,280.0
 arrendsoja111,280.0
@@ -716,9 +716,9 @@ arrendgirasol11,280.0
 arrendcebada11,112.0
 arrendsorgo11,280.0
 arrendtrigo9,123.2
-arrendmaiz9,308
-arrendsoja19,308
+arrendmaiz9,308.0
+arrendsoja19,308.0
 arrendsoja29,184.8
-arrendgirasol9,308
+arrendgirasol9,308.0
 arrendcebada9,123.2
-arrendsorgo9,308
+arrendsorgo9,308.0
