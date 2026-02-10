@@ -1,11 +1,11 @@
 variable,valor
-pgirasol,300.0
+pgirasol,373.0
 pcebada,205.0
-psorgo,175.0
+psorgo,172.0
 ptrigo,190
 psoja1,316
 psoja2,316
-pmaiz,175
+pmaiz,181
 ctrigo2,401.1
 cmaiz2,575.1
 csoja12,278.4
@@ -727,3 +727,4 @@ arrendsorgo16,221.2
 arrendsoja216,88.48
 arrendtrigo16,132.72
 arrendcebada16,132.72
+
