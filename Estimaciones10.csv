@@ -1,4 +1,4 @@
-Cultivo,Campaña,Provincia,Departamento,idProvincia,idDepartamento,Rendimiento
+Cultivo,Campaña,Provincia,Departamento,ID Provincia,ID Departamento,Rendimiento
 Girasol,2015/16,BUENOS AIRES,25 DE MAYO,6,854,2700
 Girasol,2016/17,BUENOS AIRES,25 DE MAYO,6,854,2900
 Girasol,2017/18,BUENOS AIRES,25 DE MAYO,6,854,1649
@@ -12011,4 +12011,5 @@ Sorgo,2021/22,TUCUMAN,TRANCAS,90,112,0
 Sorgo,2022/23,TUCUMAN,TRANCAS,90,112,0
 Sorgo,2023/24,TUCUMAN,TRANCAS,90,112,0
 Sorgo,2024/25,TUCUMAN,TRANCAS,90,112,0
+
 
